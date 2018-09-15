@@ -9,7 +9,7 @@ import (
 	"crypto/rand"
 	"encoding/base64"
 	"fmt"
-	"github.com/vsergeev/btckeygenie/btckey"
+	"github.com/nickoneill/btckeygenie/btckey"
 	"log"
 	"os"
 )
